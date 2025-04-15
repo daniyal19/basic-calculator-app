@@ -1,0 +1,41 @@
+.box {
+    margin: 0 auto;
+    border: 2px solid rgb(131, 129, 129);
+    border-radius: 3px;
+    width: 300px;
+    height: fit-content;
+    padding: 2px;
+}
+
+.display {
+    width: 95%;
+    font-size: 22px;
+    text-align: right;
+    outline-style: none;
+}
+
+.clearBtn {
+    width: 98%;
+    padding: 8px 0;
+    background-color: rgb(25, 152, 194);
+    color: white;
+}
+
+.btn {
+    background-color: rgb(25, 152, 194);
+    color: white;
+    width: 22.5%;
+    padding: 10px;
+}
+
+button {
+    border: 1px solid rgba(70, 69, 69, 0.514);
+    border-radius: 3px;
+}
+
+.bigBtn {
+    background-color: rgb(25, 152, 194);
+    color: white;
+    width: 48%;
+    padding: 10px;
+}
